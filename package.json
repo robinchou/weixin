@@ -1,0 +1,23 @@
+{
+  "name": "weixin",
+  "version": "1.0.0",
+  "description": "Weixin Service Demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/robinchou/weixin.git"
+  },
+  "author": "robinchou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robinchou/weixin/issues"
+  },
+  "homepage": "https://github.com/robinchou/weixin",
+  "dependencies": {
+    "express": "^4.9.4",
+    "wechat": "^0.8.11"
+  }
+}
